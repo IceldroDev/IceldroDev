@@ -1,4 +1,4 @@
-# Hi, I'm Iceldro 👋
+# Hi, Iceldro ! 👋
 
 Front-End Developer focused on building responsive and user-friendly web applications with HTML, CSS, JavaScript, React and SQL.
 

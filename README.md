@@ -14,12 +14,12 @@ Front-End Developer focused on building responsive and user-friendly web applica
 
 HTML5 | CSS3 | JavaScript | React | SQL  
 Git | GitHub | VS Code | 
-<img width="288" height="288" alt="image" src="https://github.com/user-attachments/assets/61ebcf98-efd7-49ce-87e7-0ee54077a53a" />
-<img width="288" height="288" alt="image" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" /> 
-<img width="288" height="288" alt="image" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img width="288" height="288" alt="image" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-<img width="288" height="288" alt="image" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-<img width="288" height="288" alt="image" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/61ebcf98-efd7-49ce-87e7-0ee54077a53a" />
+<img width="60" height="60" alt="image" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" /> 
+<img width="60" height="60" alt="image" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img width="60" height="60" alt="image" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+<img width="60" height="60" alt="image" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+<img width="60" height="60" alt="image" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
           
           
           

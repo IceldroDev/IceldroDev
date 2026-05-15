@@ -1,4 +1,25 @@
-## Hi there 👋
+# Hi, I'm Iceldro 👋
+
+Front-End Developer focused on building responsive and user-friendly web applications with HTML, CSS, JavaScript, React and SQL.
+
+## 🚀 Currently working on
+
+- JavaScript and React projects
+- Responsive websites
+- API integration
+- SQL and database design
+- Portfolio projects for junior developer roles
+
+## 🛠️ Tech Stack
+
+HTML5 | CSS3 | JavaScript | React | SQL  
+Git | GitHub | VS Code | 
+
+## 📫 Contact
+
+- LinkedIn: www.linkedin.com/in/IceldroTonha
+- Portfolio: N/A
+- Email: iceldrot@gmail.com
 
 <!--
 **IceldroDev/IceldroDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
